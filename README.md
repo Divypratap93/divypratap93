@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divy pratap 
 
-🚀 **Mobile Game Publisher → Front-End Developer → No-Code Web Developer → Full Stack Developer**  
+**Mobile Game Publisher → Front-End Developer → No-Code Web Developer → Full Stack Developer**  
 
 💡 Passionate about building scalable web applications and solving complex problems with code.  
 
